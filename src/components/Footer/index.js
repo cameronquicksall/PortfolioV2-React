@@ -6,7 +6,7 @@ function Footer() {
         <footer className="footer">
         <h4>Quicksall Qreations 2022</h4>
         <div className='container'>
-            <div className='top'>
+            <div className='fa-logo'>
                 <i className='fab fa-google'></i>
                 <i className='fab fa-facebook-square'></i>
                 <i className='fab fa-linkedin'></i>

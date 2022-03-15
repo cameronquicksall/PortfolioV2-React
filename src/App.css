@@ -353,6 +353,12 @@ button {
   padding: 5rem;
 }
 
+
+.fa-logo {
+  width: 10;
+  float: right;
+}
+
 footer {
   width: 100%;
   position: fixed;
