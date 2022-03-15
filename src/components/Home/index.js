@@ -20,11 +20,11 @@ function Home() {
         <h1>Quicksall Qreations</h1>
         <div className='container'>
             <div className='top'>
-                <i class='fab fa-google'></i>
-                <i class='fab fa-facebook-square'></i>
-                <i class='fab fa-linkedin'></i>
-                <i class='fab fa-twitter-square'></i>
-                <i class='fab fa-apple'></i>
+                <i className='fab fa-google'></i>
+                <i className='fab fa-facebook-square'></i>
+                <i className='fab fa-linkedin'></i>
+                <i className='fab fa-twitter-square'></i>
+                <i className='fab fa-apple'></i>
         </div>
         </div>
         </section>
@@ -32,7 +32,7 @@ function Home() {
             <div className='container-theme'>
             <div className='theme-toggle'>
             <h2>Light Theme</h2>
-            <i onClick={switchTheme} class='fa-brands fa-ello fa-spin'></i>
+            <i onClick={switchTheme} className='fa-brands fa-ello fa-spin'></i>
             </div>
             </div>
         </div>

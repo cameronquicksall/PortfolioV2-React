@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import { capitalizeFirstLetter } from '../../utils/helpers';
+import ContactForm from '../Contact';
 
 function Navbar(props) {
     const {
@@ -28,8 +29,13 @@ function Navbar(props) {
                 About me
                 </a>
             </li>
+            <li>
+            <a data-testid="about" href="#contact" onClick={() => setContactSelected(false)}>
+                Contact Me
+                </a>
+            </li>
             <li className={`mx-2 ${contactSelected && 'navActive'}`}>
-                <span onClick={() => setContactSelected(true)}>Contact</span>
+                <span onClick={() => setContactSelected(true)}>My Projects</span>
             </li>
             {categories.map((category) => (
                 <li

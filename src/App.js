@@ -1,18 +1,20 @@
 import React, { useState } from 'react';
 
-import './index.css'
+import './App.css'
+import { BrowserRouter as Router } from 'react-router-dom';
 
 import Navbar from './components/Navbar';
 import About from './components/About';
 import ContactForm from './components/Contact';
+import Portfolio from './components/Portfolio';
+import Themes from './components/particle-bg';
+import Footer from './components/Footer';
 
 
 function App() {
 
   const [categories] = useState([
-    {name: '', description: ' '},
-    { name: 'My projects', description: 'Images of projects' },
-    { name: 'Resume', description: 'Download Resume' }
+    { name: 'Resume', description: 'Download Resume' },
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
@@ -34,9 +36,12 @@ function App() {
             <About></About>
           </>
         ) : (
-          <ContactForm></ContactForm>
+          <Portfolio></Portfolio>
         )}
       </main>
+      <div>
+        <Footer/>
+      </div>
     </div>
   );
 }
