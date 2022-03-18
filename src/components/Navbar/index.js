@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import { capitalizeFirstLetter } from '../../utils/helpers';
-import ContactForm from '../Contact';
 
 function Navbar(props) {
     const {

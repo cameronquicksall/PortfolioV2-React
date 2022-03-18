@@ -34,6 +34,7 @@ function App() {
         {!contactSelected ? (
           <>
             <About></About>
+            <ContactForm></ContactForm>
           </>
         ) : (
           <Portfolio></Portfolio>
