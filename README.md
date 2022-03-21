@@ -10,17 +10,12 @@ https://cameronquicksall.github.io/PortfolioV2-React/
 
 ### Table of Contents
 * [Description](#description)
-* [Usage](#usage)
 * [Questions](#questions)
 * [Contributors](#contributors)
 * [License](#license)
 
 ![port-ss](https://user-images.githubusercontent.com/91788324/159337612-ff5fab75-1227-48d9-b842-fceb21b5e6ae.png)
 ![pro-ss](https://user-images.githubusercontent.com/91788324/159337622-48993f45-0f9f-4717-a715-f4c54a14dd43.png)
-
-
-## Usage
-This application consists of react-bootstrap, react-dom and tsparticles
 
 
 ## Contributors
