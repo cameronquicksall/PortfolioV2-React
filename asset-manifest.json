@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/PortfolioV2-React/static/css/main.3d34a733.css",
-    "main.js": "/PortfolioV2-React/static/js/main.38734891.js",
+    "main.js": "/PortfolioV2-React/static/js/main.0a8760a3.js",
     "static/js/415.6db57830.chunk.js": "/PortfolioV2-React/static/js/415.6db57830.chunk.js",
     "static/js/787.72be1341.chunk.js": "/PortfolioV2-React/static/js/787.72be1341.chunk.js",
     "static/media/por2.jpg": "/PortfolioV2-React/static/media/por2.55d9a370ecf1cdb49c04.jpg",
     "static/media/deep.png": "/PortfolioV2-React/static/media/deep.21bbea55d23986179d40.png",
     "static/media/LED.jpeg": "/PortfolioV2-React/static/media/LED.7df632b7a90eb8a99c7e.jpeg",
+    "static/media/BBoards.png": "/PortfolioV2-React/static/media/BBoards.77f77bc42108ed0b5529.png",
     "static/media/max.png": "/PortfolioV2-React/static/media/max.08746da91724100b7bcc.png",
-    "static/media/puzzles.jpeg": "/PortfolioV2-React/static/media/puzzles.7f9b5786a3037f8745f2.jpeg",
     "index.html": "/PortfolioV2-React/index.html",
     "main.3d34a733.css.map": "/PortfolioV2-React/static/css/main.3d34a733.css.map",
-    "main.38734891.js.map": "/PortfolioV2-React/static/js/main.38734891.js.map",
+    "main.0a8760a3.js.map": "/PortfolioV2-React/static/js/main.0a8760a3.js.map",
     "415.6db57830.chunk.js.map": "/PortfolioV2-React/static/js/415.6db57830.chunk.js.map",
     "787.72be1341.chunk.js.map": "/PortfolioV2-React/static/js/787.72be1341.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d34a733.css",
-    "static/js/main.38734891.js"
+    "static/js/main.0a8760a3.js"
   ]
 }
